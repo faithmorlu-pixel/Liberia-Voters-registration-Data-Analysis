@@ -8,7 +8,7 @@ The data was cleaned, loaded into a PostgreSQL database, and analyzed using SQL 
 ---
 
 ## Dataset
-- **Source:** National Electoral Commission (necliberia.org)
+- **Source:** National Elections Commission Liberia (necliberia.org)
 - **Coverage:** 73 electoral districts across 15 counties
 - **Key fields:** registered voters (male/female), voting centers, unregistered population, total voting population (2017 & 2023)
 
