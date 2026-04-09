@@ -8,7 +8,7 @@ The data was cleaned, loaded into a PostgreSQL database, and analyzed using SQL 
 ---
 
 ## Dataset
-- **Source:** Liberia Electoral Commission
+- **Source:** National Electoral Commission (necliberia.org)
 - **Coverage:** 73 electoral districts across 15 counties
 - **Key fields:** registered voters (male/female), voting centers, unregistered population, total voting population (2017 & 2023)
 
@@ -80,4 +80,4 @@ CREATE TABLE voter_registration (
 ---
 
 ## Author
-Connect with me on [LinkedIn](#) | [GitHub](#)
+Connect with me on [faithmorlu@gmail.com](+1319-826-8076) | [GitHub](https://github.com/faithmorlu-pixel/Liberia-Voters-registration-Data-Analysis)
