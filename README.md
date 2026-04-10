@@ -13,6 +13,13 @@ The data was cleaned, loaded into a PostgreSQL database, and analyzed using SQL 
 - **Key fields:** registered voters (male/female), voting centers, unregistered population, total voting population (2017 & 2023)
 
 ---
+## Dashboard
+🔗 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/faith.frank6941/viz/LiberiaVoterRegistrationAnalysis20172023/Dashboard1#6))
+
+> "Who Is Registering? and Who Is Missing?" — an interactive 
+> exploration of Liberia voter registration trends, gender 
+> participation, and accessibility gaps (2017–2023).
+
 
 ## Tools Used
 - **PostgreSQL** — data storage and querying
